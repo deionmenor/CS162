@@ -1,0 +1,1 @@
+This program accepts  2 or more lines of input, where the first line is the number of input cases the user will input. The remaining lines correspond to the inputs the user will give. Each input line consists of 2 integers followed by a string of any length. To run the program, type in "[name of progam].cpp < [input text].txt" after compiling your code.
