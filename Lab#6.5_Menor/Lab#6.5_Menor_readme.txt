@@ -1,0 +1,1 @@
+This program uses fork() and execl() to run both the xclock and print out the local time in the terminal
